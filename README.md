@@ -9,7 +9,7 @@ React Native app for assignment 2 using Expo CLI
 - Make the "YourName" bold
 
 ## Screenshot
-![Screenshot](rnscreenshot.jpeg)
+![Screenshot](assignment2/assets/rnscreenshot.jpeg)
 
 ## Student ID
 11333063 - Akrong Adjei, Naa Adjorkor
